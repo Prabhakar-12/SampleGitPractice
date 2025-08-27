@@ -1,7 +1,3 @@
 a=4
-b=4
+b=3
 print(a+b)
-print(a-b)
-print(a*b)
-print("PRabhakar")
-print("Kondakalla")
